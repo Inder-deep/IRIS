@@ -1,0 +1,329 @@
+Image 0:
+________________________
+Helvetica:
+Character Test:
+
+01234567 8 9&$
+abcdefghijkimnopaqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Word Test:
+the quick brown fox jumps over the lazy dog.
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+100 Words:
+the of and a to in is you that ithe was for on are as with his they  at be this have from or one
+had by word but not what all were we when your can said there use an each which she do how
+their if will up other about out many then them these so some her would make like him into
+time has look two more write go see number no way could people my than first water been call
+who oil its now find long down day did get come made may part
+
+THE OF AND ATO IN IS YOU THAT IT HE WAS FOR ON ARE AS WITH HIS THEY LAT BE THIS
+HAVE FROM OR ONE HAD BY WORD BUT NOT WHAT ALL WERE WE WHEN YOUR CAN
+SAID THERE USE AN EACH WHICH SHE DO HOW THEIR IF WILL UP OTHER ABOUT OUT
+MANY THEN THEM THESE SO SOME HER WOULD MAKE LIKE HIM INTO TIME HAS LOOK
+TWO MORE WRITE GO SEE NUMBER NO WAY COULD PEOPLE MY THAN FIRST WATER
+BEEN CALL WHO OIL ITS NOW FIND LONG DOWN DAY DID GET COME MADE MAY PART
+
+________________________
+
+Image 1:
+________________________
+Garamond:
+Character Test:
+
+012445678 98§
+abcdefghijklmnopqrstuvwzy2
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Word Test:
+the quick brown fox jumps over the lazy dog:
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+100 Words:
+the of and a to in is you that it he was for on ace as with his they I at be this have from or one had by word
+but not what all were we when your can said there use an each which she do how their if will up other about
+out many then them theze so some her would make like him into time has lock two more waite go see
+smumber no way could people my than first water been call who oi its now find long down day did get come.
+sade may part
+
+THE OF AND ATO IN IS YOU THAT IT HE WAS FOR ON ARE AS WITH HIS THEY 1 AT BE,
+THIS HAVE FROM OR ONE HAD BY WORD BUT NOT WHAT ALL WERE WE WHEN YOUR
+CAN SAID THERE USE AN EACH WHICH SHE DO HOW THEIR IF WILL UP OTHER ABOUT
+OUT MANY THEN THEM THESE SO SOME HER WOULD MAKE LIKE HIMINTO TIME HAS
+LOOK TWO MORE WRITE GO SEB NUMBER NO WAY COULD PEOPLE MY THAN FIRST
+WATER BEEN CALL WHO OIL T§ NOW FIND LONG DOWN DaY DID GET COME MADE.
+MAY PART
+
+________________________
+
+Image 2:
+________________________
+Bodoni:
+Character Test:
+
+012345678 9&8
+abcdefghijkImnopqrstuvwxyz
+ABCDEFGHIJELMNOPQRSTUVWXYZ
+
+Word Test:
+the quick brown fox jumps over the lazy dog.
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+100 Words:
+the of and a to in is you that it he was for on are a3 with his they I at be this have from or one had by
+word but not what all were we when your can said there use an each which she do how their if will up
+other about out many then them these so some her would make like him into time has Iook two more
+write go see number no way could people my than first water been call who oil its now find long down
+day did get come made may part
+
+THE OF AND ATC IN IS YOU THAT IT HE WAS FOR ON ARE AS WITH HIS THEY I AT BE
+THIS HAVE FROM OR ONE HAD BY WORD BUT NOT WHAT ALL WERE WE WHEN
+OUR CAN SAID THERE USE AN EACH WHICH SHE DO HOW THEIR IF WILL UP
+OTHER ABOUT OUT MANY THEN THEM THESE SC SOME HER WOULD MAKE LIKE
+HIM INTO TIME HAS LOOK TWO MORE WRITE GO SEE NUMBER NO Way COULD
+PEOPLE MY THAN FIRST WATER BEEN CALL WHO OIL IIS NOW FIND LONG DOWN
+DAY DID GET COME MADE MAY PART
+
+________________________
+
+Image 3:
+________________________
+Bodoni:
+Character Test:
+
+012345678 9&8
+abcdefghijkImnopqrstuvwxyz
+ABCDEFGHIJELMNOPQRSTUVWXYZ
+
+Word Test:
+the quick brown fox jumps over the lazy do;
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+100 Words:
+the of and a to in is you that it he was for on are a3 with his they I at be this have from or one had by
+word but not what all were we when your can said there use an each which she do how their if will up
+other about out many then them these so some her would make like him into time has Iook two more
+write go see number no way could people my than first water been call who oil its now find long down
+
+day did get come made may part
+
+THE OF AND ATC IN IS YOU THAT IT HE WAS FOR ON ARE AS WITH HIS THEY I AT BE
+THIS HAVE FROM OR ONE HAD BY WORD BUT NOT WHAT ALL WERE WE WHEN
+OUR CAN SAID THERE USE AN EACH WHICH SHE DO HOW THEIR IF WILL UP
+OTHER ABOUT OUT MANY THEN THEM THESE SC SOME HER WOULD MAKE LIKE
+HIM INTO TIME HAS LOOK TWO MORE WRITE GO SEE NUMBER NO Way COULD
+PEOPLE MY THAN FIRST WATER BEEN CALL WHO OIL IIS NOW FIND LONG DOWN
+DAY DID GET COME MADE MAY PART
+
+________________________
+
+Image 4:
+________________________
+Arial:
+Character Test:
+
+012345678 98$
+abcdefghijkimnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Word Test:
+tg quick brown fox jumps over the lazy dog.
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOS.
+
+100 Words:
+the of and a to in is you that it he was for on are as with his they  at be this have from or one
+had by word but not what all were we when your can said there use an each which she do how
+their if will up other about out many then them these so some her would make like him into time
+has look two more write go see number no way could people my than first water been call who
+oil its now find long down day did get come made may part
+
+THE OF AND A TO INIS YOU THAT IT HE WAS FOR ON ARE AS WITHHIS THEY  AT BE
+THIS HAVE FROM OR ONE HAD BY WORD BUT NOT WHAT ALL WERE WE WHEN YOUR
+CAN SAID THERE USE AN EACH WHICH SHE DO HOW THEIR IF WILL UP OTHER ABOUT
+OUT MANY THEN THEM THESE SO SOME HER WOULD MAKE LIKE HIM INTO TIME HAS:
+LOOK TWO MORE WRITE GO SEE NUMBER NO WAY COULD PEOPLE MY THAN FIRST
+WATER BEEN CALL WHO OIL I$ NOW FIND LONG DOWN DAY DID GET COME MADE
+MAY PART
+
+________________________
+
+Image 5:
+________________________
+Times New Roman:
+Character Test:
+012345678 9&$
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Word Test:
+the quick brown fox jumps over the lazy dog.
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+100 Words:
+
+the of and a to in is you that it he was for om are as with his they I at be this have from or one had by word
+but not what all were we when your can said there use an each which she do how their if will up other
+about out many then them these so some her would make like him into time has look two more waite go
+see number no way could people my than first water been call who oil its now find long down day did get
+come made may part
+
+THE OF AND ATO INIS YOU THAT IT HE WAS FOR ON ARE AS WITH HIS THEY  ATBE
+THIS HAVE FROM OR ONE HAD BY WORD BUT NOT WHAT ALL WERE WE WHEN YOUR
+CAN SAID THERE USE AN EACH WHICH SHE DO HOW THEIR IF WILL UP OTHER ABOUT
+OUT MANY THEN THEM THESE SO SOME HER WOULD MAKE LIKE HIM INTO TIME HAS
+LOOK TWO MORE WRITE GO SEE NUMBER NO WAY COULD PEOPLE MY THAN FIRST
+WATER BEEN CALL WHO OIL I$ NOW FIND LONG DOWN DAY DID GET COME MADE MAY
+PART
+
+________________________
+
+Image 6:
+________________________
+Verdana:
+Character Test:
+01234567 8 9&$
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJIKLMNOPQRSTUVWXYZ
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Word Test:
+the quick brown fox jumps over the lazy dog.
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+100 Words:
+
+the of and a to in is you that it he was for on are as with his they I at be this have
+from or one had by word but not what all were we when your can said there use an
+each which she do how their if will up other about out many then them these so
+some her would make like him into time has look two more write go see number no
+way could people my than first water been call who oil its now find long down day
+did get come made may part
+
+THE OF AND A TO IN IS YOU THAT IT HE WAS FOR ON ARE AS WITH HIS THEY I AT
+BE THIS HAVE FROM OR ONE HAD BY WORD BUT NOT WHAT ALL WERE WE WHEN
+YOUR CAN SAID THERE USE AN EACH WHICH SHE DO HOW THEIR IF WILL UP
+OTHER ABOUT OUT MANY THEN THEM THESE SO SOME HER WOULD MAKE LIKE
+HIM INTO TIME HAS LOOK TWO MORE WRITE GO SEE NUMBER NO WAY COULD
+PEOPLE MY THAN FIRST WATER BEEN CALL WHO OIL IT§ NOW FIND LONG DOWN
+DAY DID GET COME MADE MAY PART
+
+________________________
+
+Image 7:
+________________________
+Rockwell:
+Character Test:
+
+012345678 9&$%
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Word Test:
+the quick brown fox jumps over the lazy dog.
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+100 Words:
+the of and a to in is you that it he was for on are as with his they Tat be this have from or one
+had by word but not what all were we when your can said there use an each which she do
+how their if will up other about out many then them these so some her would make like him
+into time has Iook two more write go see number no way could people my than first water
+been call who oil its now find Iong down day did get come made may part
+
+THE OF AND ATO IN IS YOU THAT IT HE WAS FOR ON ARE AS WITH HIS THEY I AT BE THIS
+HAVE FROM OR ONE HAD BY WORD BUT NOT WHAT ALL WERE WE WHEN YOUR CAN
+SAID THERE USE AN EACH WHICH SHE DO HOW THEIR IF WILL UP OTHER ABOUT OUT
+MANY THEN THEM THESE SO SOME HER WOULD MAKE LIKE HIM INTO TIME HAS LOOK
+TWO MORE WRITE GO SEE NUMBER NO WAY COULD PEOPLE MY THAN FIRST WATER
+BEEN CALL WHO OIL If§ NOW FIND LONG DOWN DAY DID GET COME MADE MAY PART
+
+________________________
+
+Image 8:
+________________________
+Franklin Gothic:
+Character Test:
+
+01234567 8 98
+abedetghijkimnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Word Test:
+the quick brown fox jumps over the lazy dog.
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+100 Words:
+the of and a to in is you that it he was for on are as with his they lat be this have from or one
+had by word but not what all were we when your can said there use an each which she do how
+their if will up other about out many then them these so some her woutd make like him into time
+has ook two more write go see number no way could people my than first water been call who oi
+its now find long down day did get come made may part
+
+THE OF AND A TO INIS YOU THAT IT HE WAS FOR ON ARE AS WITH HIS THEY  AT BE THIS HAVE
+FROM OR ONE HAD BY WORD BUT NOT WHAT ALL WERE WE WHEN YOUR CAN SAID THERE USE
+AN EACH WHICH SHE DO HOW THEIR IF WILL UP OTHER ABOUT OUT MANY THEN THEM THESE
+SO SOME HER WOULD MAKE LIKE HIM INTO TIME HAS LOOK TWO MORE WRITE GO SEE
+NUMBER NO WAY COULD PEOPLE MY THAN FIRST WATER BEEN CALL WHO OIL ITS NOW FIND
+LONG DOWN DAY DID GET COME MADE MAY PART
+
+________________________
+
+Image 9:
+________________________
+Avenir:
+Character Test:
+
+012345678 98S
+abcdefghijkImnopqrstuywxyz
+ABCDEFGHIJKLMNOPORSTUVWXYZ
+
+Word Test:
+
+the quick brown fox jumps over the lazy dog.
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+100 Words:
+the of and a to in is you that it he was for on are as with his they I at be this have from or one
+had by word but not what all were we when your can said there use an each which she do how
+their if will up other about out many then them these so some her would make like him into
+time has look two more write go see number no way could people my than first water been call
+who oil its now find long down day did get come made may part
+
+THE OF AND A TO IN IS YOU THAT IT HE WAS FOR ON ARE AS WITH HIS THEY I AT BE THIS
+HAVE FROM OR ONE HAD BY WORD BUT NOT WHAT ALL WERE WE WHEN YOUR CAN
+SAID THERE USE AN EACH WHICH SHE DO HOW THEIR IF WILL UP OTHER ABOUT OUT
+MANY THEN THEM THESE SO SOME HER WOULD MAKE LIKE HIM INTO TIME HAS LOOK
+TWO MORE WRITE GO SEE NUMBER NO WAY COULD PEOPLE MY THAN FIRST WATER
+BEEN CALL WHO OIL TS NOW FIND LONG DOWN DAY DID GET COME MADE MAY PART
+
+________________________
+
+Image 10:
+________________________
+Comic Sans:
+Character Test:
+01234567 & 9&$
+abcdefghijkImnopqrstuvwxyz
+ABCDEFGHITKLMNOPQRSTUVWXYZ
+
+Word Test:
+the quick brown fox jumps over the lazy dog.
+THE QUICK BROWN FOX JUMPS OVER THE LAZY BOG.
+
+100 Words:
+
+the of and a to in is you that it he was for on are as with his they I at be this have from or
+one had by word but not what all were we when your can said there use an each which she
+do how their if will up other about out many then them these so some her would make like
+him into time has look two more write go see number no way could people my than first
+water been call who oil its now find long down day did get come made may part
+
+THE OF AND A TO INTIS YOU THAT IT HE WAS FOR ON ARE AS WITH HIS THEY L
+AT BE THIS HAVE FROM OR ONE HAD BY WORD BUT NOT WHAT ALL WERE WE
+WHEN YOUR CAN SATD THERE USE AN EACH WHICH SHE DO HOW THEIR IF WILL
+UP OTHER ABOUT OUT MANY THEN THEM THESE SO SOME HER WOULD MAKE LIKE
+HIM INTO TIME HAS LOOK TWO MORE WRITE GO SEE NUMBER NO WAY COULD
+PEOPLE MY THAN FIRST WATER BEEN CALL WHO OIL ITS NOW FIND LONG DOWN
+DAY DID GET COME MADE MAY PART.
+
+________________________
+
